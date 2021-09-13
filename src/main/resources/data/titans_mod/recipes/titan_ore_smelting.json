@@ -1,0 +1,12 @@
+{
+  "group": "titans_mod",
+  "type": "minecraft:smelting",
+  "experience": 1.75,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "titans_mod:titan_ore"
+  },
+  "result": {
+    "item": "titans_mod:titan_ingot"
+  }
+}

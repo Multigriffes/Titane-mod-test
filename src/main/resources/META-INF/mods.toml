@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="titans_mod"
+version="1.0"
+displayName="Titan's mod"
+credits="Make by Multigriffes#7424 for fun and learn."
+displayURL="https://mcreator.net"
+authors="Multigriffes"
+description='''
+RELEASE
+'''
+
+[[dependencies.titans_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

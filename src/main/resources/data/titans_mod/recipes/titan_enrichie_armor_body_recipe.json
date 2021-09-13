@@ -1,0 +1,39 @@
+{
+  "group": "titans_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    },
+    "2": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    },
+    "3": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    },
+    "4": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    },
+    "5": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    },
+    "6": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    },
+    "7": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    },
+    "8": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    }
+  },
+  "result": {
+    "item": "titans_mod:titan_enrichie_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Titan's mod",
+    "icon": {
+      "value": "CUSTOM:TitanIngot"
+    },
+    "showSearch": true
+  }
+}

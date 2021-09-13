@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "titans_mod:blocks/titan_enrichie_ore_block",
+    "particle": "titans_mod:blocks/titan_enrichie_ore_block"
+  }
+}

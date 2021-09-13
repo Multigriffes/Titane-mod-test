@@ -1,0 +1,42 @@
+{
+  "group": "titans_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "1": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "2": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "3": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "4": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "5": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "6": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "7": {
+      "item": "titans_mod:enrichedtitannegget"
+    },
+    "8": {
+      "item": "titans_mod:enrichedtitannegget"
+    }
+  },
+  "result": {
+    "item": "titans_mod:titan_enrichie_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "titans_mod:blocks/machine_bottom",
+    "up": "titans_mod:blocks/machine_top",
+    "north": "titans_mod:blocks/assembler_texture_2",
+    "east": "titans_mod:blocks/machine_side",
+    "south": "titans_mod:blocks/machine_side",
+    "west": "titans_mod:blocks/machine_side",
+    "particle": "titans_mod:blocks/machine_bottom"
+  }
+}

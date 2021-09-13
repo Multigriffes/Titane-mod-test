@@ -1,0 +1,29 @@
+{
+  "group": "titans_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "titans_mod:titan_ingot"
+    },
+    "1": {
+      "item": "titans_mod:titan_ingot"
+    },
+    "2": {
+      "item": "titans_mod:titan_ingot"
+    },
+    "3": {
+      "item": "titans_mod:titan_ingot"
+    },
+    "5": {
+      "item": "titans_mod:titan_ingot"
+    }
+  },
+  "result": {
+    "item": "titans_mod:titan_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titan_axe",
+    "customModelName": "Normal",
+    "name": "Titan Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Titanmod"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 35,
+    "damageVsEntity": 7.0,
+    "usageCount": 902,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TitanIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

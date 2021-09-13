@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "titans_mod:items/titan_enrichie_sword"
+  }
+}

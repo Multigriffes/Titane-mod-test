@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titan_enrichie_axe",
+    "customModelName": "Normal",
+    "name": "Enriched titan axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Titanmod"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 10,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 70,
+    "damageVsEntity": 45.0,
+    "usageCount": 2380,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

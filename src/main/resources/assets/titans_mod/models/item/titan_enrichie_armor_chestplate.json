@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "titans_mod:items/titan_enrichie_body"
+  }
+}

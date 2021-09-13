@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Titan_enrichieArmor.body"
+    },
+    "name": "titan_enrichie_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

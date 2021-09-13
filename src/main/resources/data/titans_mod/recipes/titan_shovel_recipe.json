@@ -1,0 +1,24 @@
+{
+  "group": "titans_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "titans_mod:titan_ingot"
+    },
+    "1": {
+      "item": "titans_mod:titan_stick"
+    },
+    "2": {
+      "item": "titans_mod:titan_stick"
+    }
+  },
+  "result": {
+    "item": "titans_mod:titan_shovel",
+    "count": 1
+  }
+}

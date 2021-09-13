@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": "CUSTOM:Titan_enrichieIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Titanenrichiestick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Titanenrichiestick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Titan_enrichiePickaxe"
+    },
+    "name": "titan_enrichie_pickaxe_recipe",
+    "namespace": "mod"
+  }
+}

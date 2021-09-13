@@ -1,0 +1,581 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TitanIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_ingot"
+    },
+    {
+      "name": "TitanOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_ore"
+    },
+    {
+      "name": "TitanBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_block"
+    },
+    {
+      "name": "TitanOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_ore_block_recipe"
+    },
+    {
+      "name": "TitanBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_block_ore_recipe"
+    },
+    {
+      "name": "TitanOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_ore_smelting"
+    },
+    {
+      "name": "TitanPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_pickaxe"
+    },
+    {
+      "name": "TitanAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_axe"
+    },
+    {
+      "name": "TitanSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_sword"
+    },
+    {
+      "name": "TitanShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_shovel"
+    },
+    {
+      "name": "TitanHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_hoe"
+    },
+    {
+      "name": "TitanPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_pickaxe_recipe"
+    },
+    {
+      "name": "TitanAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_axe_recipe"
+    },
+    {
+      "name": "TitanSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_sword_recipe"
+    },
+    {
+      "name": "TitanShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_shovel_recipe"
+    },
+    {
+      "name": "TitanHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_hoe_recipe"
+    },
+    {
+      "name": "TitanArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TitanArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_armor_helmet_recipe"
+    },
+    {
+      "name": "TitanArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_armor_body_recipe"
+    },
+    {
+      "name": "TitanArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_armor_leggings_recipe"
+    },
+    {
+      "name": "TitanArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_armor_boots_recipe"
+    },
+    {
+      "name": "TitanStick",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_stick"
+    },
+    {
+      "name": "Titannuggetrecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titannuggetrecipe"
+    },
+    {
+      "name": "Titaningotrecipenegget",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaningotrecipenegget"
+    },
+    {
+      "name": "Assemblergui",
+      "type": "gui",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assemblergui"
+    },
+    {
+      "name": "AssemblerUpdateTick",
+      "type": "procedure",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assembler_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Titannugget",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titannugget"
+    },
+    {
+      "name": "Planks",
+      "type": "tag",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "planks"
+    },
+    {
+      "name": "Assembler",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assembler"
+    },
+    {
+      "name": "Assemblerrecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assemblerrecipe"
+    },
+    {
+      "name": "Titan_enrichieIngot",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_ingot"
+    },
+    {
+      "name": "Titan_enrichieBlock",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_block"
+    },
+    {
+      "name": "Titan_enrichieOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_ore_block_recipe"
+    },
+    {
+      "name": "Titan_enrichieBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_block_ore_recipe"
+    },
+    {
+      "name": "Titan_enrichiePickaxe",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_pickaxe"
+    },
+    {
+      "name": "Titan_enrichieAxe",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_axe"
+    },
+    {
+      "name": "Titan_enrichieSword",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_sword"
+    },
+    {
+      "name": "Titan_enrichieShovel",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_shovel"
+    },
+    {
+      "name": "Titan_enrichieHoe",
+      "type": "tool",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_hoe"
+    },
+    {
+      "name": "Titan_enrichiePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_pickaxe_recipe"
+    },
+    {
+      "name": "Titan_enrichieAxeRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_axe_recipe"
+    },
+    {
+      "name": "Titan_enrichieSwordRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_sword_recipe"
+    },
+    {
+      "name": "Titan_enrichieShovelRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_shovel_recipe"
+    },
+    {
+      "name": "Titan_enrichieHoeRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_hoe_recipe"
+    },
+    {
+      "name": "Titan_enrichieArmor",
+      "type": "armor",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Titan_enrichieArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_armor_helmet_recipe"
+    },
+    {
+      "name": "Titan_enrichieArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_armor_body_recipe"
+    },
+    {
+      "name": "Titan_enrichieArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_armor_leggings_recipe"
+    },
+    {
+      "name": "Titan_enrichieArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_enrichie_armor_boots_recipe"
+    },
+    {
+      "name": "Titanenrichiestick",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanenrichiestick"
+    },
+    {
+      "name": "Titanmod",
+      "type": "tab",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanmod"
+    },
+    {
+      "name": "Enrichedtitannegget",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enrichedtitannegget"
+    },
+    {
+      "name": "Enrichedtitannuggetrecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enrichedtitannuggetrecipe"
+    },
+    {
+      "name": "Enrichedtitanblockrecipenegget",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enrichedtitanblockrecipenegget"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.titans_mod.titan_enrichie_armor_helmet": "Enriched titan Helmet",
+      "item.titans_mod.titan_pickaxe": "Titan Pickaxe",
+      "item.titans_mod.titan_hoe": "Titan Hoe",
+      "item.titans_mod.titan_armor_boots": "Titan Boots",
+      "item.titans_mod.titan_shovel": "Titan Shovel",
+      "item.titans_mod.titan_enrichie_ingot": "Enriched titan",
+      "item.titans_mod.titan_armor_helmet": "Titan Helmet",
+      "item.titans_mod.titan_sword": "Titan Sword",
+      "item.titans_mod.titan_armor_leggings": "Titan Leggings",
+      "item.titans_mod.titanenrichiestick": "Enriched titan stick",
+      "item.titans_mod.titan_enrichie_shovel": "Enriched titan shovel",
+      "item.titans_mod.enrichedtitannegget": "Enriched titan negget",
+      "item.titans_mod.titan_axe": "Titan Axe",
+      "item.titans_mod.titan_enrichie_pickaxe": "enriched titan pickaxe",
+      "item.titans_mod.titan_stick": "Titan stick",
+      "itemGroup.tabtitanmod": "Titan\u0027s mod",
+      "item.titans_mod.titan_enrichie_hoe": "Enriched titan hoe",
+      "item.titans_mod.titan_enrichie_sword": "Enriched titan sword",
+      "item.titans_mod.titannugget": "Titan nugget",
+      "block.titans_mod.titan_block": "Block of Titane",
+      "item.titans_mod.titan_enrichie_armor_boots": "Enriched titan Boots",
+      "item.titans_mod.titan_enrichie_axe": "Enriched titan axe",
+      "item.titans_mod.titan_enrichie_armor_chestplate": "Enriched titan Chestplate",
+      "item.titans_mod.titan_ingot": "Titane",
+      "block.titans_mod.assembler": "Assembler",
+      "item.titans_mod.titan_armor_chestplate": "Titan Chestplate",
+      "block.titans_mod.titan_enrichie_block": "Block of enriched titan",
+      "item.titans_mod.titan_enrichie_armor_leggings": "Enriched titan Leggings",
+      "block.titans_mod.titan_ore": "Titane Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "titans_mod",
+    "modName": "Titan\u0027s mod",
+    "version": "1.0",
+    "description": "RELEASE",
+    "author": "Multigriffes",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Make by Multigriffes#7424 for fun and learn.",
+    "modElementsPackage": "net.mcreator.titansmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

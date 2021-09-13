@@ -1,0 +1,16 @@
+{
+  "group": "titans_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "titans_mod:titan_enrichie_ingot"
+    }
+  },
+  "result": {
+    "item": "titans_mod:enrichedtitannegget",
+    "count": 9
+  }
+}

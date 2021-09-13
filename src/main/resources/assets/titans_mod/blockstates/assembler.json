@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "titans_mod:block/assembler"
+    },
+    "facing=east": {
+      "model": "titans_mod:block/assembler",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "titans_mod:block/assembler",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "titans_mod:block/assembler",
+      "y": 270
+    }
+  }
+}
